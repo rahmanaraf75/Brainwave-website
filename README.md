@@ -1,4 +1,4 @@
-<h5 align="center">Brainwave Modern UI/UX Website</h3>
+<h8 align="center">Brainwave Modern UI/UX Website</h8>
 <div align="center"> 
 The Brainwave Modern UI/UX Website is a sleek and elegant project built with Vite, React.js, and Tailwind CSS, showcasing cutting-edge UX concepts and modern design practices. This project sets a high standard in UI/UX design, offering inspiration and reference for future web applications.
 </div>
