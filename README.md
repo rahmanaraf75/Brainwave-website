@@ -1,3 +1,6 @@
+![image alt](https://github.com/rahmanaraf75/Brainwave-website/blob/c64524a6c6047a4bcaf0a37611da1586506ac293/pic-1.png)
+![image alt](https://github.com/rahmanaraf75/Brainwave-website/blob/c64524a6c6047a4bcaf0a37611da1586506ac293/pic-2.png)
+![image alt](https://github.com/rahmanaraf75/Brainwave-website/blob/c64524a6c6047a4bcaf0a37611da1586506ac293/pic-3.png)
 # Brainwave Modern UI/UX Website
 <div> 
 The Brainwave Modern UI/UX Website is a sleek and elegant project built with Vite, React.js, and Tailwind CSS, showcasing cutting-edge UX concepts and modern design practices. This project sets a high standard in UI/UX design, offering inspiration and reference for future web applications.
