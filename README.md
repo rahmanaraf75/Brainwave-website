@@ -8,7 +8,7 @@ The Brainwave Modern UI/UX Website is a sleek and elegant project built with Vit
 - Vite for fast development and build processes.
 -  React.js for a dynamic, component-based architecture.
 -  Tailwind CSS for crafting beautiful, responsive UIs with ease.
-## <a>🌟 Key Features</a>
+# <a>🌟 Key Features</a>
 
 📌 **Beautiful Sections**: Includes hero, services, features, how-to-use, roadmap, pricing, footer, and header sections.
 
